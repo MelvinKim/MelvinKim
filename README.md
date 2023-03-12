@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **melvinkimathi88@gmail.com**
 
-- ⚡ Fun fact **I think i am always curious :)**
+- ⚡ Fun fact **I am always curious :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
