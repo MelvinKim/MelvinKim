@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melvinkim" alt="melvinkim" /></a> </p>
 
-- 🔭 I’m currently working on a [Distributed Hotel Reservation System](https://github.com/MelvinKim/Distributed-Reservation-System)
-
 - 🌱 I’m currently learning **Golang, Python and Distributed systems**
 
 - 👯 I’m looking to collaborate on [Backend development, Golang, Python, Distributed systems etc](https://go.dev)
