@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Golang, Python and backend software development.**
 
-- 📫 How to reach me **melvinkimathi88@gmail.com**
-
 - ⚡ Fun fact **I am always curious :)**
 
 <h3 align="left">Connect with me:</h3>
